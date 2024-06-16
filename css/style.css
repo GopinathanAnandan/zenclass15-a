@@ -66,11 +66,3 @@
     color: rgb(255, 25, 25);
     font-weight: bold;
   }
-
-  @media (max-width: 200px) {
-  
-    .display {
-      font-size: 18px; 
-      max-height: 40px; 
-    }
-  }
