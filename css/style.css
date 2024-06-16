@@ -67,14 +67,10 @@
     font-weight: bold;
   }
 
-  @media (max-width: 300px) {
-    .calculator {
-      margin: 20px auto; 
-      padding: 10px; 
-    }
+  @media (max-width: 200px) {
   
     .display {
-      font-size: 20px; 
-      max-height: 50px; 
+      font-size: 18px; 
+      max-height: 40px; 
     }
   }
