@@ -66,3 +66,15 @@
     color: rgb(255, 25, 25);
     font-weight: bold;
   }
+
+  @media (max-width: 300px) {
+    .calculator {
+      margin: 20px auto; 
+      padding: 10px; 
+    }
+  
+    .display {
+      font-size: 20px; 
+      max-height: 50px; 
+    }
+  }
